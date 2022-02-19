@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flikr-Assignment/static/css/main.073c9b0a.css",
+    "main.js": "/Flikr-Assignment/static/js/main.7e6a7aca.js",
+    "index.html": "/Flikr-Assignment/index.html",
+    "main.073c9b0a.css.map": "/Flikr-Assignment/static/css/main.073c9b0a.css.map",
+    "main.7e6a7aca.js.map": "/Flikr-Assignment/static/js/main.7e6a7aca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7e6a7aca.js"
+  ]
+}
