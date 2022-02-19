@@ -4,7 +4,7 @@ import DataTable from './components/DataTable';
 function App() {
   return (
     <div className="App">
-      <h1>Flikr Assignment</h1>
+      <h1>Flikr-Bikayi Assignment</h1>
       <DataTable />
     </div>
   );
